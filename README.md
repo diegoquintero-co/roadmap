@@ -33,6 +33,7 @@ Certifications:
 - [x] SSL Certificates (Let's Encrypt)
 - [x] Email Servers (Exim, Dovecot)
 - [x] Control Panels (WHM, cPanel, Plesk)
+- [x] Content Delivery Networks (CloudFlare, Fastly)
 
 Certifications:
 
