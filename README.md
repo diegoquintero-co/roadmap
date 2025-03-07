@@ -16,12 +16,12 @@ Certifications:
 
 - [x] SQL (Relational Databases)
 - [x] PHP (WordPress Customizations)
-- [ ] Ruby (Web Applications) - [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) **(In Progress)**
-- [ ] Python (Scientific Computing and Data Analysis)
+- [x] Ruby (Web Applications) - [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
+- [x] Python (Scientific Computing and Data Analysis)
 
 ## DevOps
 
-- [ ] GitHub Actions (CI/CD)
+- [x] GitHub Actions (CI/CD)
 - [ ] Docker 
 - [ ] Heroku
 - [ ] AWS
